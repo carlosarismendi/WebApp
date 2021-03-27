@@ -1,0 +1,6 @@
+import './validator'
+import './bootstrap-vue'
+import './vue-axios'
+import './global'
+import './firebase'
+import './serviceWorkers'
